@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lil Soft Tennis紹介</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Lil Soft Tennisの紹介</h1>
+
+  <!-- ナビゲーション -->
+  <nav>
+    <a href="index.html">Lil Soft Tennisの音楽</a> | 
+    <a href="index2.html">おすすめの曲>おｓ>
+  </nav>
+
+  <!-- 自己紹介セクション -->
+  <h2>Lil Soft Tennis紹介</h2>
+  <p>
+    新しい世代を代表するようなジャンルレスなサウンドの各品を作るアーティスト
+    「Lil Soft Tennis」紹介していく
+  </p>
+
+  <!-- プロフィール画像 -->
+  <p>
+    <img src="lil-soft-tennis" alt="lil-soft tennisの写真">
+  </p>
+
+  <!-- キャリア紹介 -->
+ 
+
+  <h2>Lil Soft Tennisのキャリア</h2>
+
+  <table border="1">
+    <tr>
+      <th>キャリア</th>
+    </tr>
+    <tr>
+      <td>2018年</td>
+      <td>音楽活動スタート</td>
+    </tr>
+    <tr>
+      <td>2019年</td>
+      <td>ソロプロジェクトLIL Soft Tennisとして活動開始</td>
+    </tr>
+    <tr>
+      <td>2019年5月</td>
+      <td>1st Mixtape「Season」をリリース</td>
+    </tr>
+    <tr>
+      <td>2021年</td>
+      <td>奈良発のコレクティブ"HEVEN"としては、1st Mixtape「AIR」をリリース</td>
+    </tr>
+    <tr>
+      <td>2024年</td>
+      <td>日本最大級のHIPHOPフェス「POP YOURS」にてNew Comer枠として出演</td>
+    </tr>
+    <tr>
+      <td>2025年>２td>
+      <td>「POP YOURS」にて、20分の枠で出演</td>
+    </tr>
+  </table>
+
+</body>
+</html>
